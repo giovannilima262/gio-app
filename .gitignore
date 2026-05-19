@@ -11,6 +11,9 @@ out/
 build/
 dist/
 
+# drizzle migrations output
+drizzle/
+
 # env files — NEVER commit secrets
 .env
 .env.local
@@ -23,6 +26,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# railway
+.railway
 
 # typescript
 *.tsbuildinfo
