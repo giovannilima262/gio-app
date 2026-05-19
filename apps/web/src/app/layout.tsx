@@ -3,7 +3,7 @@ import { ClerkProvider } from "@clerk/nextjs";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Gio — AI Email Chief of Staff",
+  title: "Chief of Staff AI — AI-Powered Email Assistant",
   description: "Your AI-powered email chief of staff",
 };
 
